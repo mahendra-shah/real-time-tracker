@@ -71,7 +71,7 @@ Ensure you have the following installed:
 ├── server.js - Express server with Socket.io integration
 ├── package.json - Project dependencies and scripts
 └── README.md - This file
-
+```
 
 ## Usage
 
