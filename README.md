@@ -66,7 +66,6 @@ Ensure you have the following installed:
 │ │ └── styles.css - Custom styles for the project
 │ ├── 📂 js
 │ │ └── script.js - Main client-side JavaScript
-│ └── index.html - Main HTML file (if applicable)
 ├── 📁 views
 │ └── index.ejs - EJS template for rendering the main page
 ├── server.js - Express server with Socket.io integration
