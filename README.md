@@ -60,7 +60,8 @@ Ensure you have the following installed:
 
 ## Project Structure
 
-```📁 public
+```
+📁 public
 │ ├── 📂 css
 │ │ └── styles.css - Custom styles for the project
 │ ├── 📂 js
